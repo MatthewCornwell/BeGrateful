@@ -11,9 +11,11 @@ Final year React Native mobile application. An offline gratitude journalling app
 
 
 **What it does**
+
 BeGrateful lets users capture quick moments in their day to day life in the form of a photo and an optional comment / location and weather meta data, allowing them to reflect later on them in a private offline gallery. 
 
 **Stack**
+
 - React Native + Expo
 - TypeScript
 - expo-sqlite

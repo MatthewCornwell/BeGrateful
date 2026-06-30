@@ -3,9 +3,9 @@
 Final year React Native mobile application. An offline gratitude journalling app built with React Native + Expo, designed with accessibility and privacy as core requirements (The theme of the assessment was mental health)
 
 <p align="center">
-  <img src="settings.png" width="420">
-  <img src="capture.png" width="420">
-  <img src="caption.png" width="420">
+  <img src="settings.png" width="230">
+  <img src="capture.png" width="230">
+  <img src="caption.png" width="230">
 
 </p>
 

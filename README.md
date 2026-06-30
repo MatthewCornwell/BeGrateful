@@ -22,7 +22,9 @@ BeGrateful lets users capture quick moments in their day to day life in the form
 - expo-location, expo-camera, expo-media-library
 
 Easy to run with:
+
 npm install
+
 npx expo start
 
 Then scan the QR code with Expo Go on iOS/Android

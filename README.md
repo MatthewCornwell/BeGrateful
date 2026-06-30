@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+# BeGrateful Mobile App 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Final year React Native mobile application. An offline gratitude journalling app built with React Native + Expo, designed with accessibility and privacy as core requirements (The theme of the assessment was mental health)
 
-## Get started
+<p align="center">
+  <img src="settings.png" width="420">
+  <img src="capture.png" width="420">
+  <img src="caption.png" width="420">
 
-1. Install dependencies
+</p>
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+**What it does**
+BeGrateful lets users capture quick moments in their day to day life in the form of a photo and an optional comment / location and weather meta data, allowing them to reflect later on them in a private offline gallery. 
 
-   ```bash
-   npx expo start
-   ```
+**Stack**
+- React Native + Expo
+- TypeScript
+- expo-sqlite
+- expo-location, expo-camera, expo-media-library
 
-In the output, you'll find options to open the app in a
+Easy to run with:
+npm install
+npx expo start
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Then scan the QR code with Expo Go on iOS/Android
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+[Read the full assessment paper (PDF)](assessment.pdf)
